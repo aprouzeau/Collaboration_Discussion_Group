@@ -2,15 +2,15 @@
 
 The collaboration discussion group is a research papers club about collaboration run at Inria Bordeaux
 
-# Meetings
+## Meetings
 
-## 20th of March 2023
+### 20th of March 2023
 
 Presented by: Maudeline Marlier
 
 Paper: **Collaborating Across Realities: Analytical Lenses for Understanding Dyadic Collaboration in Transitional Interfaces**. Jan-Henrik Schröder, Daniel Schacht, Niklas Peper, Anita Marie Hamurculu, and Hans-Christian Jetter. Published at CHI'23. [PDF](https://www.imis.uni-luebeck.de/sites/default/files/2023-03/chi23-203.pdf)
 
-## 27th of March 2023
+### 27th of March 2023
 
 Presented by: Arnaud Prouzeau
 
