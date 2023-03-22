@@ -1,4 +1,4 @@
-# Collaboration_Discussion_Group
+# Collaboration Discussion Group
 
 The collaboration discussion group is a research papers club about collaborative systems at Inria Bordeaux
 
@@ -15,3 +15,5 @@ Paper: **Collaborating Across Realities: Analytical Lenses for Understanding Dya
 Presented by: Arnaud Prouzeau
 
 Paper: **Speech-Augmented Cone-of-Vision for Exploratory Data Analysis**. Riccardo Bovo, Daniele Giunchi, Ludwig Sidenmark, Joshua Newn, Hans Gellersen, Enrico Costanza, and Thomas Heinis. Published at CHI'23. [PDF](https://eprints.lancs.ac.uk/id/eprint/188254/1/chi23b_sub5452_cam_i16.pdf)
+
+## Other resources
