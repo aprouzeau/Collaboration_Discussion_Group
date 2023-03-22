@@ -1,6 +1,6 @@
 # Collaboration_Discussion_Group
 
-The collaboration discussion group is a research papers club about collaboration run at Inria Bordeaux
+The collaboration discussion group is a research papers club about collaborative systems at Inria Bordeaux
 
 ## Meetings
 
