@@ -14,6 +14,6 @@ Paper: **Collaborating Across Realities: Analytical Lenses for Understanding Dya
 
 Presented by: Arnaud Prouzeau
 
-Paper: **Speech-Augmented Cone-of-Vision for Exploratory Data Analysis**. Riccardo Bovo, Daniele Giunchi, Ludwig Sidenmark, Joshua Newn, Hans Gellersen, Enrico Costanza, and Thomas Heinis. Published at CHI'23. [PDF](https://eprints.lancs.ac.uk/id/eprint/188254/1/chi23b_sub5452_cam_i16.pdf)
+Paper: **Speech-Augmented Cone-of-Vision for Exploratory Data Analysis**. Riccardo Bovo, Daniele Giunchi, Ludwig Sidenmark, Joshua Newn, Hans Gellersen, Enrico Costanza, and Thomas Heinis. Published at CHI'23. [PDF](https://eprints.lancs.ac.uk/id/eprint/188254/1/chi23b_sub5452_cam_i16.pdf) -  [Presentation](./Presentation/Speech_Augmented_Cone_of_Vision_for_Exploratory_Data_Analysis.pdf)
 
 ## Other resources
