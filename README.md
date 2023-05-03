@@ -28,8 +28,17 @@ Presented by: Edwige Chauvergne
 
 Paper: **Design orienté collaboration à distance pour supporter la mutual awareness dans le cadre du Single-Pilot Operation**. Maxime Bardou, Catherine Letondal, Mickaël Causse, Jean-Paul Imbert, Mathieu Poirier. Published at IHM'23. [PDF](https://hal.science/IHM-2023/hal-04017286v1)
 
+### 2nd of May 2023
 
+Presented by: Maudeline Marlier
 
+Paper: **Establishing Awareness through Pointing Gestures during Collaborative Decision-Making in a Wall-Display Environment**. Valérie Maquil, Dimitra Anastasiou, Hoorieh Afkari, Adrien Coppens, Johannes Hermen, Lou Schwartz. Poster at CHI'23. [ACM Link](https://dl.acm.org/doi/fullHtml/10.1145/3544549.3585830) - [Presentation](./Presentation/Establishing_Awareness_through_Pointing_Gestures_during_Collaborative_Decision-Making_in_a_Wall-Display_Environment.pdf) - [Reading Notes](./Notes/Establishing_Awareness_through_Pointing_Gestures_during_Collaborative_Decision-Making_in_a_Wall-Display_Environment.md)
+
+### 9th of May 2023
+
+Presented by: Vincent Casamayou
+
+Paper: **Volumetric Mixed Reality Telepresence for Real-time Cross Modality Collaboration**. Andrew Irlitti, MEsut Latifoglu, Qiushi Zhou, Martin N Reinoso, Thuong Hoang, Eduardo Velloso, Frank Vetere. Published at CHI'23. [ACM Link](https://dl.acm.org/doi/abs/10.1145/3544548.3581277).
 
 ## Other resources
 
@@ -46,7 +55,9 @@ Paper: **Design orienté collaboration à distance pour supporter la mutual awar
 - **Collaborative Creativity in TikTok Music Duets**. Katherine O'Toole. Published at CHI'23.
 - **Collaborative Online Learning with VR Video: Roles of Collaborative Tools and Shared Video Control**. Qiao Jin, Yu Liu, Ruixuan Sun, Chen Chen, Puqi Zhou, Bo Han, Feng Qian, Svetlana Yarosh. Published at CHI'23. [Webpage](http://georgiejin.com/portfolio/collaborative-online-learning-with-vr-video-roles-of-collaborative-tools-and-shared-video-control/)
 - **Designing Virtual Environments for Social Engagement in Older Adults: A Qualitative Multi-site Study**. Tong Bill Xu, Armin Mostafavi, Benjamin C. Kim, Angella Anyi Lee, Walter Boot, Sara Czaja, Saleh Kalantari. Published at CHI'23. [PDF](https://arxiv.org/ftp/arxiv/papers/2210/2210.03202.pdf) - [Video Preview](https://www.youtube.com/watch?v=dDfrIP0Ge_E)
-
+- **It is Okay to be Distracted: How Real-time Transcriptions Facilitate Online Meeting with Distraction**. Seoyun Son, Junyoung Choi, Sunjae Lee, Jean Y Song, Insik Shin. Published at CHI'23.
+- **IntroBot: Exploring the Use of Chatbot-assisted Familiarization in Online Collaborative Groups**. Donghoon Shin, Soomin Kim, Ruoxi Shang, Joonhwan Lee, Gary Hsieh. Published at CHI'23. [PDF](https://faculty.washington.edu/garyhs/docs/shin-CHI2023-introbot.pdf)
+- **Exploring Co-located Interactions with a Shape-Changing Bar Chart**. Miriam Sturdee, Hayat Kara, Jason Alexander. Published at CHI'23.
 
 
 #### Posters/Demos/Others
@@ -63,7 +74,12 @@ Paper: **Design orienté collaboration à distance pour supporter la mutual awar
 - **Demonstrating Virtual Teamwork with Synchrobots: A Robot-Mediated Approach to Improving Connectedness**. Yuna Watanabe, Xi Laura Cang, Rúbia Reis Guerra, Devyani McLaren, Preeti Vyas, Jun Rekimoto, Karon E MacLean. Demo at CHI'23.
 - **Dream Garden: Exploring Location-Based, Collaboratively-Created Augmented Reality Spaces**. Elizabeth Petrov, Andrés Monroy-Hernández. Poster at CHI'23.
 - **Establishing Awareness through Pointing Gestures during Collaborative Decision-Making in a Wall-Display Environment**. Valérie Maquil, Dimitra Anastasiou, Hoorieh Afkari, Adrien Coppens, Johannes Hermen, Lou Schwartz. Poster at CHI'23. [Video Preview](youtube.com/watch?v=sb9EmYKuPuU)
--  **Evaluation of a collaborative reading annotation system through multimodal data analysis**. Lili Liu, Lishan Zhang, Yan Shu, Shuwen Wang, Han Wu, Min Xv. Case Study at CHI'23. 
+-  **Evaluation of a collaborative reading annotation system through multimodal data analysis**. Lili Liu, Lishan Zhang, Yan Shu, Shuwen Wang, Han Wu, Min Xv. Case Study at CHI'23.
+-  **Is "Categorical Imperative" Metaversal?: A Kantian Ethical Framework for Social Virtual Reality**. Eyup Engin Kucuk, Caglar Yildirim. Poster at CHI'23.
+-  **Industrial Metaverse: Supporting Remote Maintenance with Avatars and Digital Twins in Collaborative XR Environments**. Leif Oppermann, Florian Buchholz, Yücel Uzun. Poster at CHI'23.
+-  **How Pairing by Code Similarity Influences Discussions in Peer Learning**. Shiyu Xu, Ashley Ge Zhang, Steve Oney. Poster at CHI'23.
+-  **Happje: Stimulating Collaborative Cooking for People with Dementia**. Yvon Ruitenburg, Rens Brankaert, Maarten Houben, Minha Lee, Gert Pasman. Poster at CHI'23.
+
 
 
 ### Collaboration papers at IHM'23
